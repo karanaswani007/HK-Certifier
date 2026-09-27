@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="HK Certifier">
+  <rect width="16" height="16" rx="3" fill="#f4f1ea"/>
+  <rect x="3" y="2" width="10" height="12" rx="1.5" fill="#1b4f4a"/>
+  <path fill="#f4f1ea" d="M5 5h2v2h2V5h2v6H9V9H7v2H5z"/>
+</svg>
